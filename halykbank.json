@@ -1,0 +1,229 @@
+[
+    {
+        "city": "Астана",
+        "city_code": "1501",
+        "cashback_info": [
+            {
+                "category_name": "Супер маркеты",
+                "stores": [
+                    {
+                        "store_name": "Магазин \"Кега\"",
+                        "store_address": "г. Нурсултан, ул. Темирбек Жургенов, 27/1",
+                        "max_cashback": "5%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Бутик \"23-24\"",
+                        "store_address": "г. Нур-Султан, Ул. Ы.Дукенулы, 31",
+                        "max_cashback": null,
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Бутик \"23-24\"",
+                        "store_address": "г. Нур-Султан, ул. Ы.Дукенулы, 31",
+                        "max_cashback": "5%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Минимаркет \"Нур\"",
+                        "store_address": "г. Нур-Султан, ул. Карталинская, 18/1",
+                        "max_cashback": "5%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Магазин \"Пчёлка\"",
+                        "store_address": "г. Астана, ул. Сарайшык, 34",
+                        "max_cashback": "5%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Магазин \"Пчёлка\"",
+                        "store_address": "г. Нур-Султан, Ул. Сарайшык, 34",
+                        "max_cashback": null,
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Магазин \"Central Market and Bar\"",
+                        "store_address": "г. Нур-Султан, пр. Туран, 4 Д",
+                        "max_cashback": "5%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Бутик \"51-52\"",
+                        "store_address": "г. Нур-Султан, ул. Ы.Дукенулы, 31",
+                        "max_cashback": "5%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Бутик №64",
+                        "store_address": "г. Нур-Султан, ул. Ы.Дукенулы, 31",
+                        "max_cashback": null,
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Бутик \"63-64\"",
+                        "store_address": "г. Нур-Султан, ул. Ы.Дукенулы, 31",
+                        "max_cashback": "5%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Магазин \"Pro100Mart\"",
+                        "store_address": "г. Астана, ул. Сатпаева , 5,",
+                        "max_cashback": "5%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Минимаркет \"Шагын маркет\"",
+                        "store_address": "г. Нур-Султан, ул. Сыганак, 15",
+                        "max_cashback": "5%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Алкомаркет \"Wine Sport\"",
+                        "store_address": "7, KUISHI DINA STR.",
+                        "max_cashback": "5%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Минимаркет \"Шахназар\"",
+                        "store_address": "г. Нур-Султан, ул. Даулеткерей, 1А",
+                        "max_cashback": "5%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Супермаркет \"Самрук\"",
+                        "store_address": "г. Астана, ул. Карталинская, 18/1, ВП-5",
+                        "max_cashback": "5%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Винный бутик \"Monte Bianco\"",
+                        "store_address": "г. Астана, ул. Кенесары, 61",
+                        "max_cashback": "5%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Супермаркет \"Райхан\"",
+                        "store_address": "с. Акмол, ул. Бахыт, 1-15",
+                        "max_cashback": "4%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Супермаркет \"Interfood\"",
+                        "store_address": "г. Астана, ул. Кошкарбаева, 8",
+                        "max_cashback": "3%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Минимаркет \"Нур\"",
+                        "store_address": "г. Нур-султан, ул. Рыскулбекова, 31/1",
+                        "max_cashback": "3%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Минимаркет \"Мын-булак\"",
+                        "store_address": "г. Нур-Султан, пр. Кошкарбаева, 32/4",
+                        "max_cashback": "3%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Минимаркет \"Даниал\"",
+                        "store_address": "г. Нур-Султан, ул. Жанаконыс, 62",
+                        "max_cashback": "3%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Минимаркет \"BIBI\"",
+                        "store_address": "г. Нур-Султан, ул. А. Байтурсынова, 47",
+                        "max_cashback": "3%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Магазин \"Камила\"",
+                        "store_address": "г. Нур-Султан, ул. М. Ауезова, 41",
+                        "max_cashback": "3%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Магазин \"Кызылжар\"",
+                        "store_address": "г. Астана, ул. Байганин, 12",
+                        "max_cashback": "3%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Магазин \"Кызылжар\"",
+                        "store_address": "12, BAIGANIN STR,",
+                        "max_cashback": "3%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Минимаркет \"Корзинка\"",
+                        "store_address": "г. Нур-Султан, ул. Кайым Мухамедханова, 23",
+                        "max_cashback": "2%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Магазин \"Диана\"",
+                        "store_address": "г. Нурсултан, Ул. Куйши Дина, 8",
+                        "max_cashback": "2%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Минимаркет \"Ак Тан\"",
+                        "store_address": "г. Нур-Султан, ул. Куйши Дина, 8/1",
+                        "max_cashback": "2%",
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Ninel",
+                        "store_address": "Акмолинская обл. Целиноградский район, аул Максимовка, ул. 50 лет ВЛКСМ, дом 2, кв. 6",
+                        "max_cashback": null,
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Алкомаркет \"Dark Bear\"",
+                        "store_address": "г. Нурсултан, ул. Е-10, 16",
+                        "max_cashback": null,
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Аксиома",
+                        "store_address": "г. Нур-Султан, Ул. А-98, 1",
+                        "max_cashback": null,
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Алкомаркет \"Жумадилова\"",
+                        "store_address": "г. Нурсултан, ул. Ж. Жабаева, 22-1",
+                        "max_cashback": null,
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Бутик \"6\"",
+                        "store_address": "г. Нур-Султан, Ул. Ж. Жабаева, 22/1",
+                        "max_cashback": null,
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Бутик \"6\" доставка 2",
+                        "store_address": "г. Нур-Султан, Ул. Ж. Жабаева, 22/1",
+                        "max_cashback": null,
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Бутик \"6\" доставка",
+                        "store_address": "г. Нур-Султан, Ул. Ж. Жабаева, 22/1",
+                        "max_cashback": null,
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    },
+                    {
+                        "store_name": "Minimarket Inju",
+                        "store_address": "г.Астана, пос. Караоткель, ул. Есет батыр, 18, НП-1",
+                        "max_cashback": null,
+                        "qr_cashback": "1% при оплате QR и смартфоном"
+                    }
+                ]
+            }
+        ]
+    }
+]
